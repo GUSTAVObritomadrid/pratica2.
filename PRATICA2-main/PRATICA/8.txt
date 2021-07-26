@@ -1,0 +1,12 @@
+void main() {  
+ String result = '5';
+  int soma = 5;
+  
+  
+  for( int i = 1; i <= 5; i++){
+    result =' ${i}';
+    soma = soma * i;
+    print('$result = $soma');
+  }
+  
+}

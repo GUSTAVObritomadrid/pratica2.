@@ -1,0 +1,9 @@
+void main() {
+  String lista = "1.60, 1.90, 1.59, 1.92, 1.76, 1.79, 1.88, 2.00, 1.80, 1.77, 1.80, 1.70, 1.90, 1.60, 1,71";
+  List<String> listaDeJogadores = lista.split(',');
+  var soma;
+  print(soma=1.60+1.90+1.59+1.92+1.76+1.79+1.88+2.00+1.80+1.77+1.80+1.70+1.90+1.60+1.71);
+  print(soma/15);
+//   print(lista());
+  
+}

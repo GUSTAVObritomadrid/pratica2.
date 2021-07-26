@@ -1,0 +1,6 @@
+ void main() {
+  const List numeros_pares = [2, 4, 6, 8, 10];
+  for (int num in numeros_pares) {
+    print(num);
+  }
+}

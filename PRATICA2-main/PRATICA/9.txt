@@ -1,0 +1,9 @@
+void main() {
+
+    List<double> alturas = [90, 50, 60, 55, 75, 90, 100];
+
+    alturas.forEach((altura) => altura > 90 ?
+                   print(altura) :
+                   ""
+                   );           
+}

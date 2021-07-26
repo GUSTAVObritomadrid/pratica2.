@@ -1,0 +1,9 @@
+void main (){
+  List<int> medias = [6, 8, 6, 8, 3, 8, 9, 10, 9, 4];
+  
+  for(int num in medias){
+    print(num);
+  }
+  
+  
+}
